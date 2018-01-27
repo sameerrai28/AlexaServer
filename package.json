@@ -1,0 +1,27 @@
+{
+  "name": "alexaserver",
+  "version": "1.0.0",
+  "description": "Alexa Skill Server",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameerrai28/AlexaServer.git"
+  },
+  "keywords": [
+    "AlexaServer"
+  ],
+  "author": "Sameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameerrai28/AlexaServer/issues"
+  },
+  "homepage": "https://github.com/sameerrai28/AlexaServer#readme"
+}
